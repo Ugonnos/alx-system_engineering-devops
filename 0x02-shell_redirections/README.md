@@ -1,1 +1,1 @@
-my smiley
+my display passwd

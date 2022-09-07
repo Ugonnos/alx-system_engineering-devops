@@ -1,1 +1,1 @@
-my confused smiley
+etc/passwd
